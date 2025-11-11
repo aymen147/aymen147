@@ -1,4 +1,3 @@
-
 # 💫 About Me:
 👋 Hi there! I'm Aymen<br>🔍 Data Science Student | 📊 Machine Learning Enthusiast | 🤖 AI Explorer<br>💡 Passionate about data-driven solutions and AI innovations.<br>📚 Currently learning deep learning, statistics, and data visualization.<br>🚀 Working on cool projects in machine learning and analytics.<br>📫 Let's connect! Feel free to check out my repos and collaborate.
 
