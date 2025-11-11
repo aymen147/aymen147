@@ -1,7 +1,4 @@
 
-![Description](https://media.giphy.com/media/4f8C0XY8TzUvPwvZWm/giphy.gif?cid=ecf05e47j660o3xvbx9knqp86w2i94mwwmbbirov1f89sgnc&ep=v1_gifs_related&rid=giphy.gif&ct=g)
-
-
 # 💫 About Me:
 👋 Hi there! I'm Aymen<br>🔍 Data Science Student | 📊 Machine Learning Enthusiast | 🤖 AI Explorer<br>💡 Passionate about data-driven solutions and AI innovations.<br>📚 Currently learning deep learning, statistics, and data visualization.<br>🚀 Working on cool projects in machine learning and analytics.<br>📫 Let's connect! Feel free to check out my repos and collaborate.
 
